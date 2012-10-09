@@ -28,7 +28,7 @@ e muitas outras ferramentas que venham a deixar nosso sistema melhor ou mais fá
 
 ##### Qualificações
 
- * Experiência com jquery.
+ * Experiência com jQuery.
  * Experiência com less/Sass.
  * Experiência com UX/UI.
 
