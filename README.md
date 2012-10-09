@@ -17,9 +17,8 @@ truques, essa vaga é para você.
 
 O mecasar é essencialmente um software web, portanto podemos dizer que participar da nossa interface web é ser responsável
 por uma da parte que integram o coração da empresa. Ao participar do mecasar, você vai ter oportunidade de trabalhar com
-[HTML](http://pt.wikipedia.org/wiki/HTML5), JQuery, DOM, Ajax e muitas outras ferramentas que venham a deixar nosso sistema melhor ou mais fácil para nossos
-usuários.
-
+[HTML](http://pt.wikipedia.org/wiki/HTML5), [jQuery](http://jquery.com), [less](http://lesscss.org), Ajax e muitas outras
+ferramentas que venham a deixar nosso sistema melhor ou mais fácil para nossos usuários.
 
 ##### Responsabilidades
 
@@ -29,14 +28,16 @@ usuários.
 
 ##### Qualificações
 
- * Experiência com JQuery.
+ * Experiência com jQuery.
+ * Experiência com less.
+ * Experiência com UX/UI.
  * Experiência com sistemas de controle de versao Git.
- * Experiência com User Experience.
 
 ##### Diferenciais
 
- * Experiência com testes unitários e controle de qualidade.
+ * Experiência com design gráfico (para web).
  * Experiência com metodologias ágeis.
+ * Experiência com testes unitários e controle de qualidade.
  * Participação da comunidade ou de projetos open source.
 
 
