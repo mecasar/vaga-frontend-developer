@@ -17,29 +17,27 @@ truques, essa vaga é para você.
 
 O mecasar é essencialmente um software web, portanto podemos dizer que participar da nossa interface web é ser responsável
 por uma da parte que integram o coração da empresa. Ao participar do mecasar, você vai ter oportunidade de trabalhar com
-[HTML](http://pt.wikipedia.org/wiki/HTML5), [jQuery](http://jquery.com), [less](http://lesscss.org), Ajax e muitas outras
-ferramentas que venham a deixar nosso sistema melhor ou mais fácil para nossos usuários.
+[HTML5](http://pt.wikipedia.org/wiki/HTML5), [jQuery](http://jquery.com), [less](http://lesscss.org), [Sass](http://sass-lang.com),
+e muitas outras ferramentas que venham a deixar nosso sistema melhor ou mais fácil para nossos usuários.
 
 ##### Responsabilidades
 
- * Desenvolver interfaces usando HTML, CSS e Javascript.
+ * Desenvolver interfaces usando HTML5, CSS e Javascript.
  * Converter layouts PSD em interfaces web.
  * Agir rapidamente para a correção de bugs.
 
 ##### Qualificações
 
- * Experiência com jQuery.
- * Experiência com less.
+ * Experiência com jquery.
+ * Experiência com less/Sass.
  * Experiência com UX/UI.
- * Experiência com sistemas de controle de versao Git.
 
 ##### Diferenciais
 
  * Experiência com design gráfico (para web).
  * Experiência com metodologias ágeis.
- * Experiência com testes unitários e controle de qualidade.
+ * Experiência com sistemas de controle de versao Git.
  * Participação da comunidade ou de projetos open source.
-
 
 Se você tem perfil próximo ao que estamos procurando, envie um email para jobs@mecasar.com com com o assunto "Vaga - Desenvolvedor Frontend":
 
