@@ -22,8 +22,9 @@ e muitas outras ferramentas que venham a deixar nosso sistema melhor ou mais fá
 
 ##### Responsabilidades
 
+ * Prototipação de interfaces e fluxos da aplicação.
  * Desenvolver interfaces usando HTML5, CSS e Javascript.
- * Converter layouts PSD em interfaces web.
+ * Converter layouts PSD em interfaces web ricas.
  * Agir rapidamente para a correção de bugs.
 
 ##### Qualificações
@@ -43,7 +44,7 @@ Se você tem perfil próximo ao que estamos procurando, envie um email para jobs
 
  * Pequena apresentação.
  * Endereço do LinkedIn (de preferência) ou currículo em PDF.
- * Endereço do Github (ou outro serviço semelhante).
+ * Endereço do Portfolio online caso possua.
  * Outros materiais que julgar interessante.
 
 As vagas são todas para trabalhar em Curitiba. Não aceitamos home-office, nem temos escritórios em outras regiões
